@@ -1,0 +1,33 @@
+1 js is sync in nature
+2 js is single threaded
+
+## Browser and nodejs is js run time environment 
+Browser good to know for frontend and node so that we can js run on terminal
+on system
+
+
+## every thing are manage by single threaded
+
+## in order to run js need lots of library that is provide by RUN TIME
+so JS + RUN TIME makes js is HULK (NOT just JS)
+
+## FRONT_END run in Browser , actually Browser is a run time that is provied 
+lost of features that is not native to js
+
+## Manipulation of DOM all function provide by the Browser,  those are not present in js
+
+## another RUN TIME in NODE
+
+
+## when js RUN in Browser then Browser gives all Browser native features to js 
+
+## setTimeout is not native to js
+
+## require is  present in nodejs not in Browser 
+
+## we naver pause the native js code /  in that situation js naver gives
+TO RUNTIME priority ***
+
+## never break your sync code
+
+## non blocking for run time features
