@@ -1,4 +1,10 @@
 /**
+ * Advance js2 \ Async js
+ *
+ * Callbacks | inversion of control
+ *
+ * class 1
+ *
  * 1. Inversion of control (Promises can resolve this issue)
  * 2. Callback hell -> readability problem
  */
